@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**ahmeterdgn/ahmeterdgn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on flutter 
+- 🌱 I’m currently learning dart programming language
+- 👯 I'm looking to collaborate on flutter or php projects
+- 🤔 I'm looking for help with nothing
+- 💬 Ask me about php, javascript, flutter or computers
+- 📫 How to reach me: [linkedin](http://linkedin.com/in/ahmeterdgn)
+- 😄 Pronouns: excited, solution oriented and sometimes impatient
+- ⚡ Fun fact: joke and chat about weird things!
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
